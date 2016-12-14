@@ -1,0 +1,130 @@
+body {
+  background-color: #fff;
+}
+
+.containerPart {
+  background-color: red;
+  position: relative;
+  margin: 0 auto;
+  width: 1040px;
+  height: 700px;
+  border-radius: 40px;
+}
+
+.headPart	{
+  position: relative;
+  margin: auto;
+  width: 250px;
+  height: 40px;
+  color: #fff;
+  padding-bottom: 50px;
+  font-family: "monotype corsiva";
+  font-size: 36px;
+  text-align: center;
+}
+
+#etchTitle	{
+  height: 30px;
+  padding-top: 25px;
+}
+
+.mainPart	{
+  background-color: #abc;
+  position: relative;
+  margin: 0 auto;
+  width: 960px;
+  height: 480px;
+  border-radius: 30px;
+}
+
+.etchBox	{
+  background-color: black;
+  float: left;
+}
+
+.etchBoxBlack  {
+  background-color: black;
+  float: left;
+}
+
+.etchBoxPurple  {
+  background-color: purple;
+  float: left;
+}
+
+.etchBoxBlue  {
+  background-color: blue;
+  float: left;
+}
+
+.etchBoxOlive  {
+  background-color: olive;
+  float: left;
+}
+
+.unEtchBox	{
+  background-color: #abc;
+  float: left;
+  //border-style: solid;
+  //border-width: 1px;
+  //border-color: red;  //#abc;
+}
+.mesh1	{
+  width: 48px;
+  height: 48px;
+}
+.mesh2	{
+  width: 24px;
+  height: 24px;
+}
+.mesh3	{
+  width: 12px;
+  height: 12px;
+}
+.mesh4	{
+  width: 6px;
+  height: 6px;
+}
+.mesh5	{
+  width: 4px;
+  height: 4px;
+}
+
+.footPart	{
+  background-color: #fff;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 25px;
+  float: left;
+}
+
+.dial1	{
+  margin-left: 40px;
+}
+
+.dial2	{
+  margin-left: 836px;
+  margin-top: -56px;
+}
+
+.buttonPart1  {
+  font-size: 15px;
+  width: 150px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 268px;
+  background-color: rgb(234,234,228);
+  //float: left;
+}
+
+.buttonPart2  {
+  font-size: 15px;
+  width: 150px;
+  height: 40px;
+  margin-top: 40px;
+  background-color: rgb(234,234,228);
+  //float: left;
+}
